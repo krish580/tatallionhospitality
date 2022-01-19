@@ -1,0 +1,29 @@
+/* ========== Our Food ======== */
+#page_header3{
+	background:url(../images/banner/6.jpg) no-repeat;
+	width:100%;
+	position:relative;
+	min-height:280px;
+	background-size:cover;
+	background-position:center center;
+	text-align:right;
+}
+#page_header3 .page_title{
+	padding:22px 0;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+#page_header3 .page_title h2.title{
+	font-size:36px;
+	vertical-align:top;
+}
+#page_header3 .page_title h2.title, #page_header3 .page_title p{ color:#fff;}
+#page_header3 .page_title p{ margin-bottom:0;}
+#page_header3 .page_title h2.title {font-size: 26px;}
+#page_header3{ min-height:220px;}
+#page_header3 .page_title h2.title{
+  font-size: 26px;
+  display:block;
+  margin-bottom:15px;
+}
